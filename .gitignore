@@ -1,15 +1,2 @@
-# Ignore backup files
-*~
-*.#*
-*.bak
-*.db
-*.diff
-*.orig
-
-# Ignore archives
-*.7z
-*.gz
-*.rar
-*.tar
-*.tgz
-*.zip
+# Ignore all unknown files: require force-add
+*
