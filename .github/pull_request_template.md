@@ -12,6 +12,7 @@
   - [ ] Explains theoretical underpinnings, or lists references for further reading
 
 ### Maturity Checklist *(bonus)*
+- [ ] Repository Insights -> Dependency Graph does not flag security vulnerabilities
 - [ ] Descriptive fields on GitHub (Description, Website, Topics) are populated
 - [ ] Self-documenting code with link to online build,
       *e.g.* [Doxygen][_doxy] or [Docstrings][_docs] 
