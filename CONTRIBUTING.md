@@ -2,7 +2,7 @@
 
 NIST produces a lot of software, with open source code available
 on [GitHub][_usng]. If you believe one of our repositories is
-[*awesome*][AWESOME.md], please nominate it for inclusion in this
+[*awesome*](AWESOME.md), please nominate it for inclusion in this
 [list][_awsm].
 
 ## Nominations
@@ -11,7 +11,7 @@ To nominate a repository, file an [Issue][_issu] labeled "consider
 repository-name" (in lower case) with a link in the comment field.
 
 It would help peer review of the repository if you also paste the
-[checklist][AWESOME.md] into the comment field, and check off
+[checklist](AWESOME.md) into the comment field, and check off
 whatever applies. Don't worry if several boxes go unchecked:
 it gives the developers room to grow!
 
@@ -24,13 +24,15 @@ To add a repository to the curated list, please
 * Open [README.md][README.md] and add the link in a single line:
   `* [project-name](url) - A short description ends with a period.`
   Add only one link per Pull Request.
-* Create a [Pull Request][_plrq] from your modified [README.md][README.md].
+* Create a [Pull Request][_plrq] from your modified [README.md](README.md).
 * Write `Closes #__` in the Pull Request description, referring to the
   associated Issue.
-* Paste in and complete the [checklist][AWESOME.md]. It should take
+* Paste in and complete the [checklist](AWESOME.md). It should take
   10 minutes or less to complete.
 * Don't mention `NIST` in the description as it's implied.
 * Check your spelling and grammar. Remove any trailing whitespace.
+
+The original [awesome.re][_awre] has more detailed instructions.
 
 ## Guidelines for Reviewers
 
@@ -115,6 +117,7 @@ The Reviewer Guidelines borrow heavily from [JOSS][_joss].
 
 <!--References-->
 [_appv]: https://www.appveyor.com/
+[_awre]: https://github.com/sindresorhus/awesome/blob/master/contributing.md
 [_awsm]: https://github.com/usnistgov/awesome-nist
 [_crcl]: https://circleci.com/
 [_copy]: https://www.govinfo.gov/content/pkg/USCODE-2014-title17/pdf/USCODE-2014-title17-chap1-sec105.pdf

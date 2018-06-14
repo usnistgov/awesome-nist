@@ -4,7 +4,7 @@ I have reviewed REPOSITORY_NAME, and consider it awesome.
 
 ## Baseline Requirements
 
-Paste [checklist](awesome-nist/AWESOME.md) here.
+Paste [checklist](../AWESOME.md) here.
 
 ## Subjective Opinion
 
