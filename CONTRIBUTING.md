@@ -115,6 +115,16 @@ check its core functionality.
 
 The Reviewer Guidelines borrow heavily from [JOSS][_joss].
 
+## Badges
+
+Any repository included in the list is eligible for an awesome badge like this:
+
+[![Mentioned in Awesome NIST>](https://awesome.re/mentioned-badge.svg)][_awsm]
+
+If you are the party responsible for merging a new repository into the list,
+please submit a pull request against that repository's README.md (or similar)
+to add the new badge.
+
 <!--References-->
 [_appv]: https://www.appveyor.com/
 [_awre]: https://github.com/sindresorhus/awesome/blob/master/contributing.md
