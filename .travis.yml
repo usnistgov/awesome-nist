@@ -1,0 +1,6 @@
+install:
+  - npm install -g markdown-link-check
+  
+script:
+  - ERR=0; for f in $(find . -name \*.md); do markdown-link-check $f || ERR=$((ERR+1)); done; return $ERR
+  
