@@ -2,5 +2,5 @@ install:
   - npm install -g markdown-link-check
   
 script:
-  - find . -name \*.md -exec markdown-link-check {} \;
+  - ERR=0; for f in $(find . -name \*.md); do markdown-link-check $f || ERR=$((ERR+1)); done; return $ERR
   
