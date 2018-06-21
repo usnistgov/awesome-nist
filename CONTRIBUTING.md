@@ -19,14 +19,10 @@ it gives the developers room to grow!
 
 To add a repository to the curated list, please
 
-* Locate the [Issue][_issu] in which the repository was nominated,
-  or create a new Issue if one does not already exist.
 * Open [README.md][README.md] and add the link in a single line:
   `* [project-name](url) - A short description ends with a period.`
   Add only one link per Pull Request.
 * Create a [Pull Request][_plrq] from your modified [README.md](README.md).
-* Write `Closes #__` in the Pull Request description, referring to the
-  associated Issue.
 * Paste in and complete the [checklist](AWESOME.md). It should take
   10 minutes or less to complete.
 * Don't mention `NIST` in the description as it's implied.
@@ -53,8 +49,10 @@ LICENSE.md (or similar) and README.md (or similar).
 #### LICENSE.md
 
 LICENSE.md must contain the official [dedication to the public domain][_pub].
-Assignments or reservations of copyright, *e.g.* under [BSD][_bsd], [GPL][_gpl],
-or [MIT][_mit] licensing terms, are unlawful per [17 U.S.C. §105][_copy].
+If parts of the work are subject to conditions, *e.g.* under [BSD][_bsd], [GPL][_gpl],
+or [MIT][_mit] licensing terms, then the secondary license should be included
+with a clear description of its scope: what specific subset of the repository
+is *not* in the public domain? Why not?
 
 #### README.md
 
