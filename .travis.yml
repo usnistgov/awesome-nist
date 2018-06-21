@@ -1,0 +1,6 @@
+install:
+  - npm install -g markdown-link-check
+  
+script:
+  - find . -name \*.md -exec markdown-link-check {} \;
+  

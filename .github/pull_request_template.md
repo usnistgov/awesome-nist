@@ -1,4 +1,4 @@
-## https://github.com/usnistgov/REPOSITORY_NAME
+## REPOSITORY NAME
 
 ### Baseline Checklist *(prerequisite)*
 The repository complies with our [Terms of Use][_ntos].
