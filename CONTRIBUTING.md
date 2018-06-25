@@ -30,6 +30,15 @@ To add a repository to the curated list, please
 
 The original [awesome.re][_awre] has more detailed instructions.
 
+## Continuous Integration
+
+Awesome NIST runs [markdown-link-check][_mdlc] on [Travis CI][_trvs]
+once a week, and whenever commits are made to `master`, to make sure
+links are not broken. After submitting a pull request, or before reviewing
+one, please click on this handy badge to make sure everything is OK:
+
+[![Build Status](https://travis-ci.org/usnistgov/awesome-nist.svg?branch=master)][_awci]
+
 ## Guidelines for Reviewers
 
 Each Pull Request must be approved by at least one reviewer before merging.
@@ -125,6 +134,7 @@ to add the new badge.
 
 <!--References-->
 [_appv]: https://www.appveyor.com/
+[_awci]: https://travis-ci.org/usnistgov/awesome-nist
 [_awre]: https://github.com/sindresorhus/awesome/blob/master/contributing.md
 [_awsm]: https://github.com/usnistgov/awesome-nist
 [_crcl]: https://circleci.com/
@@ -133,6 +143,7 @@ to add the new badge.
 [_grob]: http://odiwiki.nist.gov/pub/ODI/GitHub/GitHub_ROBv5.pdf
 [_issu]: https://github.com/usnistgov/awesome-nist/issues
 [_joss]: https://joss.theoj.org/about#reviewer_guidelines
+[_mdlc]: https://www.npmjs.com/package/markdown-link-check
 [_plrq]: https://github.com/usnistgov/awesome-nist/pulls
 [_trvs]: https://travis-ci.org/
 [_usng]: https://github.com/usnistgov
