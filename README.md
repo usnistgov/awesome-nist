@@ -21,6 +21,9 @@ a look!
 
 ---
 
+* [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating equilibrium
+  spatial correlations of liquid-like polymer systems
+
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
 [_issu]: https://github.com/usnistgov/awesome-nist/issues
