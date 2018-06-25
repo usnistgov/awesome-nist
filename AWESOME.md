@@ -55,7 +55,7 @@ because...
 [_doxy]: https://www.stack.nl/~dimitri/doxygen
 [_ghrv]: https://help.github.com/articles/about-pull-request-reviews/
 [_nstp]: https://pages.nist.gov
-[_ntos]: https://github.nist.gov
+[_ntos]: http://odiwiki.nist.gov/ODI/GitHubFAQ#Public_Repository_Guidelines
 [_rtfd]: https://readthedocs.org
 [_smvr]: https://semver.org
 [_stdl]: https://github.com/usnistgov/awesome-nist/blob/master/LICENSE.md

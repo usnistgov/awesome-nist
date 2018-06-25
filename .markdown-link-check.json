@@ -1,0 +1,13 @@
+{
+	"ignorePatterns": [
+			{
+				"pattern": "^http://odiwiki.nist.gov"
+			},
+			{
+				"pattern": "^http://inet.nist.gov"
+			},
+			{
+				"pattern": "^https://inet.nist.gov"
+			}
+	]
+}
