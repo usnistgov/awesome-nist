@@ -21,6 +21,8 @@ a look!
 
 ---
 
+* [mosaic](https://github.com/usnistgov/mosaic) - a single molecule analysis
+  toolbox that automatically decodes multi-state nanopore data.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
