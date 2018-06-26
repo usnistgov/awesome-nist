@@ -21,10 +21,21 @@ a look!
 
 ---
 
+## Data Sets
+
+* [Texture-Sampling-PhaseMeasurement-BiasErrors](
+  https://github.com/usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors) -
+  for assessment of bias errors caused by texture and sampling methods
+  in diffraction-based steel phase measurements.
+
+## Source Code
+
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
-* [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
+* [pyPRISM](https://github.com/usnistgov/pyPRISM) - a framework for simulating
   equilibrium spatial correlations of liquid-like polymer systems.
+  
+  
 
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
