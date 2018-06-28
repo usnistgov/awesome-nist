@@ -23,6 +23,8 @@ a look!
 
 * [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
   for working with Chebyshev expansions.
+* [HiPerC](https://github.com/usnistgov/hiperc) - high performance computing
+  strategies for boundary value problems (CUDA for PDEs).  
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
