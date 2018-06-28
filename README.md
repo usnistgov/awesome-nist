@@ -21,6 +21,8 @@ a look!
 
 ---
 
+* [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
+  for working with Chebyshev expansions.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
