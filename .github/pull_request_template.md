@@ -3,7 +3,7 @@ I have reviewed the following repository, and consider it awesome
 because...
 
 <!--Edit this URL to point to the repository-->
-https://github.com/usnistgov/REPOSITORY_NAME
+https://github.com/usnistgov/
 
 <!--Does it satisfy the prereq and a few maturity list items?-->
 <!--(feel free to adapt the list to suit the repository)-->
