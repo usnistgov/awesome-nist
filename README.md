@@ -29,6 +29,8 @@ a look!
   contrast phase field codes.
 * [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
   equilibrium spatial correlations of liquid-like polymer systems.
+* [feasst](https://github.com/usnistgov/feasst) - Molecular and particle-based
+  simulations with flat-histogram Monte Carlo methods.
 
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
