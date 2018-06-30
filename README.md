@@ -23,7 +23,8 @@ a look!
 
 * [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
   for working with Chebyshev expansions.
-* [NEMO](https://github.com/usnistgov/NEMO) - a laboratory logistics web application. Use it to schedule reservations, control tool access, track maintenance issues, and more.
+* [NEMO](https://github.com/usnistgov/NEMO) - a lab logistics web app that can
+  schedule reservations, control tool access, track maintenance issues, and more.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
