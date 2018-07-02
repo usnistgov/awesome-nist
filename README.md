@@ -23,14 +23,14 @@ a look!
 
 * [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
   for working with Chebyshev expansions.
+* [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
+  simulations with flat-histogram Monte Carlo methods.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
   contrast phase field codes.
 * [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
   equilibrium spatial correlations of liquid-like polymer systems.
-* [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
-  simulations with flat-histogram Monte Carlo methods.
 
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
