@@ -50,7 +50,7 @@ because...
 <!--References-->
 [_brwf]: https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 [_crcl]: https://circleci.com
-[_dirl]: https://www.nist.gov/director/licensing
+[_dirl]: https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software#software
 [_docs]: https://www.python.org/dev/peps/pep-0257/
 [_doxy]: https://www.stack.nl/~dimitri/doxygen
 [_ghrv]: https://help.github.com/articles/about-pull-request-reviews/

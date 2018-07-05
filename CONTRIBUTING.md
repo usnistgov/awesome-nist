@@ -126,7 +126,7 @@ The Reviewer Guidelines borrow heavily from [JOSS][_joss].
 
 Any repository included in the list is eligible for an awesome badge like this:
 
-[![Mentioned in Awesome NIST>](https://awesome.re/mentioned-badge.svg)][_awsm]
+[![Mentioned in Awesome NIST](https://awesome.re/mentioned-badge.svg)](https://github.com/usnistgov/awesome-nist)
 
 If you are the party responsible for merging a new repository into the list,
 please submit a pull request against that repository's README.md (or similar)
