@@ -27,6 +27,8 @@ a look!
   simulations with flat-histogram Monte Carlo methods.
 * [HiPerC](https://github.com/usnistgov/hiperc) - high performance computing
   strategies for boundary value problems (CUDA for PDEs).  
+* [MOSAIC](https://github.com/usnistgov/mosaic) - a single molecule analysis
+  toolbox that automatically decodes multi-state nanopore data.
 * [NEMO](https://github.com/usnistgov/NEMO) - a lab logistics web app that
 ￼  schedules reservations, controls tool access, tracks maintenance issues, and more.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
