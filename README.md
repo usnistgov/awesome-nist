@@ -25,6 +25,8 @@ a look!
   for working with Chebyshev expansions.
 * [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
   simulations with flat-histogram Monte Carlo methods.
+* [HiPerC](https://github.com/usnistgov/hiperc) - high performance computing
+  strategies for boundary value problems (CUDA for PDEs).  
 * [NEMO](https://github.com/usnistgov/NEMO) - a lab logistics web app that
 ￼  schedules reservations, controls tool access, tracks maintenance issues, and more.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
