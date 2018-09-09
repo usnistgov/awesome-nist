@@ -28,11 +28,14 @@ a look!
 * [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
   simulations with flat-histogram Monte Carlo methods.
 * [HiPerC](https://github.com/usnistgov/hiperc) - high performance computing
-  strategies for boundary value problems (CUDA for PDEs).  
+  strategies for boundary value problems (CUDA for PDEs).
+* [HTGS](https://github.com/usnistgov/htgs) - an application programming
+  interface to generate hybrid pipeline workflow systems.
 * [MOSAIC](https://github.com/usnistgov/mosaic) - a single molecule analysis
   toolbox that automatically decodes multi-state nanopore data.
 * [NEMO](https://github.com/usnistgov/NEMO) - a lab logistics web app that
-￼  schedules reservations, controls tool access, tracks maintenance issues, and more.
+ ￼ schedules reservations, controls tool access, tracks maintenance issues,
+  and more.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
