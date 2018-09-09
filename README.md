@@ -16,7 +16,7 @@ set of [criteria](AWESOME.md), and must be approved by at least two
 You are invited to [nominate a repository](CONTRIBUTING.md). Please
 consider [what makes a repository awesome](AWESOME.md) first. If you
 consider an unlisted workflow model or service integration to be an
-indicator of awesomeness, please file an [issue][_issu] and we'll take
+indicator of awesomeness, please file a [pull request][_pull] and we'll take
 a look!
 
 ---
@@ -53,4 +53,5 @@ a look!
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
 [_issu]: https://github.com/usnistgov/awesome-nist/issues
+[_pull]: https://github.com/usnistgov/awesome-nist/pulls
 [_usng]: https://github.com/usnistgov
