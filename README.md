@@ -23,6 +23,8 @@ a look!
 
 * [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
   for working with Chebyshev expansions.
+* [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
+  simulations with flat-histogram Monte Carlo methods.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
