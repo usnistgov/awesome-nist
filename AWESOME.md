@@ -52,7 +52,7 @@ because...
 [_crcl]: https://circleci.com
 [_dirl]: https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software#software
 [_docs]: https://www.python.org/dev/peps/pep-0257/
-[_doxy]: https://www.stack.nl/~dimitri/doxygen
+[_doxy]: http://www.doxygen.nl
 [_ghrv]: https://help.github.com/articles/about-pull-request-reviews/
 [_nstp]: https://pages.nist.gov
 [_ntos]: http://odiwiki.nist.gov/ODI/GitHubFAQ#Public_Repository_Guidelines
