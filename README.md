@@ -16,13 +16,26 @@ set of [criteria](AWESOME.md), and must be approved by at least two
 You are invited to [nominate a repository](CONTRIBUTING.md). Please
 consider [what makes a repository awesome](AWESOME.md) first. If you
 consider an unlisted workflow model or service integration to be an
-indicator of awesomeness, please file an [issue][_issu] and we'll take
+indicator of awesomeness, please file a [pull request][_pull] and we'll take
 a look!
 
 ---
 
+## Code
+
 * [ChebTools](https://github.com/usnistgov/ChebTools) - C++ and Python tools
   for working with Chebyshev expansions.
+* [feasst](https://github.com/usnistgov/feasst) - molecular and particle-based
+  simulations with flat-histogram Monte Carlo methods.
+* [HiPerC](https://github.com/usnistgov/hiperc) - high performance computing
+  strategies for boundary value problems (CUDA for PDEs).
+* [HTGS](https://github.com/usnistgov/htgs) - an application programming
+  interface to generate hybrid pipeline workflow systems.
+* [MOSAIC](https://github.com/usnistgov/mosaic) - a single molecule analysis
+  toolbox that automatically decodes multi-state nanopore data.
+* [NEMO](https://github.com/usnistgov/NEMO) - a lab logistics web app that
+ ￼ schedules reservations, controls tool access, tracks maintenance issues,
+  and more.
 * [OSCAL](https://github.com/usnistgov/OSCAL) - a set of hierarchical formats
   that provide a standardized representation for security controls information.
 * [PFHub](https://github.com/usnistgov/pfhub) - a location to compare and
@@ -30,7 +43,15 @@ a look!
 * [pyPRISM](https://github.com/usnistgov/pyPRISM) - A framework for simulating
   equilibrium spatial correlations of liquid-like polymer systems.
 
+## Data
+
+* [Texture-Sampling-PhaseMeasurement-BiasErrors](
+  https://github.com/usnistgov/Texture-Sampling-PhaseMeasurement-BiasErrors) -
+  for assessment of bias errors caused by texture and sampling methods
+  in diffraction-based steel phase measurements.
+
 <!--References-->
 [_crtr]: https://github.com/orgs/usnistgov/teams/awesome-nist/members
 [_issu]: https://github.com/usnistgov/awesome-nist/issues
+[_pull]: https://github.com/usnistgov/awesome-nist/pulls
 [_usng]: https://github.com/usnistgov
